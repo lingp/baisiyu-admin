@@ -1,12 +1,12 @@
 <template>
-    <div style="color:black">
-      articlehello
+    <div>
+      文章列表
     </div>
 </template>
 
 <script>
 export default {
-  name: 'Article'
+  name: 'ArticleList'
 }
 </script>
 
